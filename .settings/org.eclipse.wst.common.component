@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="AutoLoginWeb_jun">
+        <wb-resource deploy-path="/" source-path="/WebRoot"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="/AutoLoginWeb_jun"/>
+        <property name="java-output-path" value="/AutoLoginWeb_jun/WebRoot/WEB-INF/classes"/>
+    </wb-module>
+</project-modules>

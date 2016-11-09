@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="AutoLoginWeb_jun"
+  id="myeclipse.1471413470909"
+  context-root="/AutoLoginWeb_jun"
+  j2ee-spec="6.0"
+  archive="AutoLoginWeb_jun.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
